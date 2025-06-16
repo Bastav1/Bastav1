@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi, I'm Bastav!
 
-<!--
-**Bastav1/Bastav1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer in progress 💻, building with modern web tools.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**:
+- React.js ⚛️
+- Next.js
+- Tailwind CSS 🎨
+- Axios 🌐,Websockets
+- HTML5, CSS3, JavaScript (ES6+)
+
+**Backend**:
+- Node.js + Express.js
+- WebSocket Server
+- MongoDB / PostgreSQL
+- Prisma / Mongoose
+- JWT Auth & Zod Validation
+
+**Language**:
+-Typrscript
+-Javascript
+-C++
+
+**Other Tools**:
+- Git & GitHub 🛠
+- Vercel / Render for deployment
